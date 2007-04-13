@@ -1,0 +1,11 @@
+MANIFEST
+Makefile.PL
+lib/Data/Fault/Cascade.pm
+lib/Data/Fault/Dump.pm
+lib/Data/Fault/Report.pm
+lib/Data/Fault.pm
+t/fault-axioms.t
+t/fault-internals.t
+t/fault-messages.t
+t/fault-oo.t
+t/fault-syms.t
